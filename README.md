@@ -8,7 +8,7 @@
 
   <h2 align="center">Autocare - Car Service Website</h2>
 
-  Autofix is a fully responsive car service website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  AutoCare is a fully responsive car service website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 
 
